@@ -1,6 +1,6 @@
 # code-for-paper-fracture-solute-transport
-this code is for solute transport in  rough fractures!
-
+This code is for solute transport in  rough fractures!
+The file named "geoSMOOTH.dat" is one of the example geometry data.
 Code running steps:            
 (1) Based on Linux system, download and unzip the palabos package. Download address: https://github.com/gladk/palabos            
 (2) Copy the folder "code for paper" into the "example" folder in the directory of palabos,and create a new empty file named "tmp" to restore the simulation results.            
