@@ -17,7 +17,7 @@
 # Leading directory of the Palabos source code
 palabosRoot  = ../../..
 # Name of source files in current directory to compile and link with Palabos
-projectFiles = fh.cpp
+projectFiles = SoluteTransport.cpp
 
 # Set optimization flags on/off
 optimize     = true
